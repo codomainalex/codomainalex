@@ -6,7 +6,7 @@ Hi 👋 My name is Aritra Sen
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [@>here<@](http://aritrasen123.dorik.io)
 * ✉️  You can contact me at [avrasen15@gmail.com](mailto:avrasen15@gmail.com)
-* 🚀  I'm currently working on [CTF's](http://https://tryhackme.com/p/T3d)
+* 🚀  I'm currently working on [CTF's](http://https://tryhackme.com)
 * 🧠  I'm learning JAVA AND JAVA SCRIPT
 * 🤝  I'm open to collaborating on PENTESTING
 * ⚡  I Fucked University Server During Examination repeatedly 2 times still they hasnot figured out who did this
