@@ -4,7 +4,7 @@ Hi 👋 My name is Aritra Sen
 👨🏼‍💻 I'm a Student | Programmer | Ethical Hacker
 
 * 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [@>here<@](about-aritra-sen.netlify.app)
+* 🖥️  See my portfolio at [@>here<@](https://about-aritra-sen.netlify.app/)
 * ✉️  You can contact me at [avrasen15@gmail.com](mailto:avrasen15@gmail.com)
 * 🚀  I'm currently working on [CTF's](https://tryhackme.com)
 * 🧠  I'm learning JAVA AND JAVA SCRIPT
