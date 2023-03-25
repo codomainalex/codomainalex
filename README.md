@@ -5,7 +5,7 @@ Hi 👋 My name is Aritra Sen
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [@>here<@](https://about-aritra-sen.netlify.app/)
-* ✉️  You can contact me at [Send-Mail](mailto:avrasen15@gmail.com)
+* ✉️  You can contact me  [HERE](mailto:avrasen15@gmail.com)
 * 🚀  I'm currently working on [CTF's](https://tryhackme.com)
 * 🧠  I'm learning JAVA AND JAVA SCRIPT
 * 🤝  I'm open to collaborating on PENTESTING
